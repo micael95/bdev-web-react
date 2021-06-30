@@ -1,0 +1,20 @@
+{
+  "name": "bdev_web_react",
+  "version": "1.0.0",
+  "description": "![alt text](requirements/assets/white_logo.png \"BDev App\")",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micael95/bdev_web_react.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micael95/bdev_web_react/issues"
+  },
+  "homepage": "https://github.com/micael95/bdev_web_react#readme"
+}
